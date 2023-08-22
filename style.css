@@ -1,0 +1,8 @@
+:root
+{
+    --color: red;
+}
+*
+{
+    background: var(--color);
+}
